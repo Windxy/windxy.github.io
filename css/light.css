@@ -56,7 +56,8 @@ body, a {
 	object-fit: cover;
 /*  	flex: 1;*/
 /* 	margin-left: 180px; */
-	margin: 0 auto;
+	margin-left: 50%;
+	transform: tanslate(-100px);
 /*	text-align: center;*/
 /*	display: table-cell; */
 /*    vertical-align: middle;*/
