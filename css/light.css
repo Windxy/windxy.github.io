@@ -57,7 +57,7 @@ body, a {
 /*  	flex: 1;*/
 /* 	margin-left: 180px; */
 	margin-left: 50%;
-	transform: tanslate(-100px);
+	transform: translate(-100px 0);
 /*	text-align: center;*/
 /*	display: table-cell; */
 /*    vertical-align: middle;*/
