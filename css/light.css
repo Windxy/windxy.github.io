@@ -55,7 +55,8 @@ body, a {
 	border-radius: 8%;
 	object-fit: cover;
 /*  	flex: 1;*/
-	margin-left: 180px;
+/* 	margin-left: 180px; */
+	margin: 0 auto;
 /*	text-align: center;*/
 /*	display: table-cell; */
 /*    vertical-align: middle;*/
