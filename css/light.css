@@ -50,8 +50,8 @@ body, a {
 	border-radius: 50%;
 }
 .img_me{
-	width: 30%;
-	height: 350px;
+	width: 200px;
+/*	height: 350px;*/
 	border-radius: 8%;
 	object-fit: cover;
 /*  	flex: 1;*/
