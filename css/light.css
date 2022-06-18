@@ -50,17 +50,12 @@ body, a {
 	border-radius: 50%;
 }
 .img_me{
-	width: 200px;
-/*	height: 350px;*/
+	width: 30%;
+	height: 30%;
 	border-radius: 8%;
 	object-fit: cover;
-/*  	flex: 1;*/
-/* 	margin-left: 180px; */
 	display:block;
-/*	text-align: center;*/
-/*	display: table-cell; */
-/*    vertical-align: middle;*/
-    text-align: center;
+  text-align: center;
 }
 
 .main {
