@@ -60,6 +60,15 @@ a {
     text-align: center;
 }
 
+.img_me50 {
+    width: 50%;
+    height: 50%;
+    border-radius: 1%;
+    object-fit: cover;
+    display: block;
+    text-align: center;
+}
+
 .main {
     border-left: 3px solid var(--body-fore-color);
 }
